@@ -1,0 +1,72 @@
+* {
+    background: none;
+    background-image: none;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    text-shadow: none;
+    font-family: "JetBrains Mono NFM";
+    font-size: 30px;
+}
+
+/* Window background = black */
+window {
+    background-color: rgba(17, 17, 17, 0.45);
+}
+
+/* Buttons fully transparent */
+button {
+    border-radius: 20px;
+    margin: 10px;
+
+
+    background: none;
+    border: none;
+    outline: none;
+    box-shadow: none;
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20%;
+}
+button:hover{
+    background-color: rgba(255, 255, 255, 0.1);
+}
+/* Remove hover/focus/active styling */
+
+/* Button text */
+button span {
+    font-size: 1.2em;
+}
+
+
+
+/* Adjust the size of any text inside button (optional) */
+button span {
+    font-size: 1.2em;
+}
+
+/* Icon URLs */
+#lock {
+    background-image: image(url("./icons/lock_light.png"));
+}
+
+#logout {
+    background-image: image(url("./icons/logout_light.png"));
+}
+
+#suspend {
+    background-image: image(url("./icons/suspend_light.png"));
+}
+
+#shutdown {
+    background-image: image(url("./icons/shutdown_light.png"));
+}
+
+#reboot {
+    background-image: image(url("./icons/reboot_light.png"));
+}
+
+#hibernate {
+    background-image: image(url("./icons/hibernate_light.png"));
+}
