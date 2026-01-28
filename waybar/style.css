@@ -125,17 +125,21 @@
 #cpu {
   color: #c6d0f5;
 }
-#custom-logout{
-     background-color: rgb(31, 32, 39);
-     border-radius: 8px;
-     padding: 0.3rem 0.7rem;
-     font-weight: 800;
-
+#custom-logout {
+  color: #c3dee2;
+  font-size: 20px;
+  background-color: #1a1b26;
+  padding: 0.3rem 0.7rem;
+  margin: 5px 0px;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  min-width: 0;
 
 }
-#custom-logout:hover{
-    background:rgb(79, 81, 102) ;
+#custom-logout:hover {
+  background-color: rgb(41, 42, 53);  
 }
+too
 #clock {
   color: #99d1db;
   font-weight: 500;
