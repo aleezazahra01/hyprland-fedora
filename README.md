@@ -5,7 +5,6 @@
 
 ## Features
 
-- Fully customized Hyprland configuration
 - Pywal Integration
 - Waybar
 - Wofi menu
