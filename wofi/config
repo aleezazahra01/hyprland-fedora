@@ -1,4 +1,4 @@
-style = ~hyprlnd/.config/wofi/themes/menu.css
+style = ~/hyprlnd/wofi/themes/style.css
 
 width=600
 height=500
