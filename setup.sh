@@ -1,7 +1,5 @@
-#!/bin/bash
+#symlinks 
 
-# Hyprland setup script
-# Usage: run from inside your cloned repo: bash setup.sh
 
 mkdir -p ~/.config 
 echo "Creating symlinks..."
