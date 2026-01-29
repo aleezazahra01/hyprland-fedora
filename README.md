@@ -1,6 +1,6 @@
 # Hyprland Fedora Config
 
-##### first ricing (prolly last too )
+##### first ever ugly ah rice js how I like em
 ---
 
 ## Features
