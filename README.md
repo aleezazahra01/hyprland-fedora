@@ -1,6 +1,6 @@
 # Hyprland Fedora Config
 
-first ricing (prolly last too )
+### first ricing (prolly last too )
 ---
 
 ## Features
