@@ -1,6 +1,6 @@
 # Hyprland Fedora Config
 
-
+first ricing (prolly last too )
 ---
 
 ## Features
@@ -28,8 +28,8 @@
 |----------------------------|-------------------------|
 | Open Wofi Menu             | `Super + D`         |
 | Launch Terminal            | `Super + Q`         |
+| Change Wallpaper            | `Super + W`         |
 | Close Window               | `Super + C`             |
-| Toggle Floating            | `Super + F`             |
 | Switch Workspace           | `Super + 1..9`          |
 | Move Window to Workspace   | `Super + Shift + 1..9`  |
 | Screenshot                 | `SHift +PrintScreen`          |
