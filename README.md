@@ -41,10 +41,10 @@
 <img width="1367" height="769" alt="2026-01-28-231258_hyprshot" src="https://github.com/user-attachments/assets/92555897-82c9-465d-a069-7ee20fc116d0" />
 
 <img width="1367" height="769" alt="image" src="https://github.com/user-attachments/assets/c327ec6c-9a3d-458c-965a-d2980e61e6e0" />
-<img width="1367" height="769" alt="2026-01-30-170313_hyprshot" src="https://github.com/user-attachments/assets/d800ac74-3889-4c74-852b-3297feef28a1" />
+<img width="1367" height="769" alt="2026-01-30-172320_hyprshot" src="https://github.com/user-attachments/assets/39c04288-38a4-47b0-be15-f31038bdc62b" />
 
 
-<img width="1367" height="769" alt="2026-01-30-171722_hyprshot" src="https://github.com/user-attachments/assets/d388870f-3222-4e26-9b30-3b3045ee3c43" />
+![Uploading 2026-01-30-172501_hyprshot.png…]()
 
 <img width="1367" height="769" alt="2026-01-26-224240_hyprshot" src="https://github.com/user-attachments/assets/cc776aab-b6a8-4539-81f4-8202eb330da4" />
 
