@@ -17,10 +17,6 @@
 
 ---
 
-![Uploading recording_1769779164-ezgif.com-video-to-gif-converter.gif…]()
-
-
-
 
 
 ---
