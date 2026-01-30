@@ -43,7 +43,8 @@
 
 
 <img width="1367" height="769" alt="2026-01-30-181907_hyprshot" src="https://github.com/user-attachments/assets/65014007-382b-49b7-97be-45209a0ca3ec" />
-<img width="1367" height="769" alt="2026-01-30-234435_hyprshot" src="https://github.com/user-attachments/assets/ddc3170c-18f5-41eb-b1f6-8e7a01e21f21" />
+<img width="1367" height="769" alt="image" src="https://github.com/user-attachments/assets/195a6f1a-73e6-4b4f-907f-89dde6af0c41" />
+
 
 
 
