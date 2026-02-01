@@ -51,6 +51,7 @@
 
 <img width="1367" height="769" alt="2026-01-26-224240_hyprshot" src="https://github.com/user-attachments/assets/cc776aab-b6a8-4539-81f4-8202eb330da4" />
 
+<img width="1367" height="769" alt="image" src="https://github.com/user-attachments/assets/52b87318-c91d-498e-9c18-d8f35408e847" />
 
 
 
