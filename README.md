@@ -39,7 +39,6 @@
 ## Screenshots
 ...
 
-<img width="1367" height="769" alt="image" src="https://github.com/user-attachments/assets/52b87318-c91d-498e-9c18-d8f35408e847" />
 
 
 
